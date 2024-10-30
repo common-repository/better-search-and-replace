@@ -1,0 +1,64 @@
+.ocsr_top_area h2 {
+    background: #1d2527;
+    padding: 5px !important;
+    text-align: center;
+    margin: 10px;
+    color: #fff;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.ocsr_top_area p {
+    color: #080808;
+    text-transform: lowercase;
+    text-decoration: none;
+}
+
+.ocsr_top_area strong {
+    font-size: 15px;
+    font-style: oblique;
+    color: #000dbb;
+    text-transform: lowercase;
+}
+
+
+.ocsr_top_area input {
+    height: 15px;
+    font-size: 15px !important;
+    padding: 5px !important;
+}
+
+.ocsr_top_area h3 {
+    text-transform: inherit;
+    font-size: 17px;
+    margin: 0;
+}
+
+
+.ocsr_top_area input[type=checkbox]:checked::before {
+    margin: -9px !important;
+}
+
+.ocsr_top_area .ocsr_btn {
+    padding: 0px !important;
+    margin: 0px px !important;
+    width: 161px;
+    height: 35px;
+    background: #1d2327 !important;
+    border: none !important;
+}
+
+.ocsr_top_area a {
+    color: #29298b;
+}
+
+.oldurl_validate{
+    display:none;
+    color: red;
+    padding-left:5px;
+}
+.newurl_validate{
+    display:none;
+    color: red;
+    padding-left:5px;
+}
